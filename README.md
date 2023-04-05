@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @Angelopgit
 - 👀 I’m interested in ...
-- Web Design, Game Design
+- Game Design & Java Apps
 - 🌱 I’m currently learning ...
-- Java, Python, Javascript
+- Java, Python, C#
 - 💞️ I’m looking to collaborate on ...
-- Internships, Javascript Projects, React Web Apps
+- Internships and Projects
 - 📫 How to reach me ...
 - Email: angelopereznet@gmail.com (always checking)
 
