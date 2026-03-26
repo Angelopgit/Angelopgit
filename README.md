@@ -1,8 +1,4 @@
-- 👋 Hi, I’m @Angelopgit
-- 👀 I’m interested in ...
-- Game Design & Java Apps
-- 💞️ I’m looking to collaborate on ...
- Product Projects
+
 - 📫 How to reach me ...
 - Email: angelopereznet@gmail.com (always checking)
 
