@@ -51,7 +51,7 @@ A commercial, self-hosted personnel-management platform for military-simulation 
 
 ## Open-Source Contributions to AI Projects
 
-I look for real bugs in AI tooling, reproduce them and send minimal, well-explained fixes.
+I look for real bugs in AI tooling, reproduce them and send minimal, well-explained fixes with tests. Where a project asks for it, I disclose AI-assisted work to maintainers.
 
 | Project | Contribution | Status |
 |:--|:--|:--:|
@@ -59,6 +59,10 @@ I look for real bugs in AI tooling, reproduce them and send minimal, well-explai
 | **[morluto/rea](https://github.com/morluto/rea)**<br>Agent-driven reverse-engineering toolkit | [PR #2241](https://github.com/morluto/rea/pull/2241): the CIL decoder omitted the `no.` prefix opcode (ECMA-335 §2.2), so valid .NET methods were reported as malformed. Traced it to the opcode table, fixed it and added a regression test. | ![Merged](https://img.shields.io/badge/Merged-8250DF?style=flat-square) |
 | **[AtomicBot-ai/Atomic-Chat](https://github.com/AtomicBot-ai/Atomic-Chat)**<br>Open-source ChatGPT alternative that runs 100% offline | [PR #2](https://github.com/AtomicBot-ai/Atomic-Chat/pull/2): replaced duplicated search-index construction across the thread store's mutation actions with one shared helper (+21 / -55 lines, no behavior change). | ![Merged](https://img.shields.io/badge/Merged-8250DF?style=flat-square) |
 | **[nidhaloff/deep-translator](https://github.com/nidhaloff/deep-translator)**<br>Multi-engine translation library | [PR #305](https://github.com/nidhaloff/deep-translator/pull/305): an exception was constructed but never raised, so an empty API response crashed later with a confusing `AttributeError`. | ![Open](https://img.shields.io/badge/Open-DBAB09?style=flat-square) |
+| **[run-llama/llama_index](https://github.com/run-llama/llama_index)**<br>Data framework for building LLM applications | [PR #23512](https://github.com/run-llama/llama_index/pull/23512): the Azure AI Inference integration's unsupported-tool error printed a literal `{tool_call.type}` instead of the tool type (missing `f` prefix). Fixed with a regression test. | ![Open](https://img.shields.io/badge/Open-DBAB09?style=flat-square) |
+| **[run-llama/llama_index](https://github.com/run-llama/llama_index)**<br>Data framework for building LLM applications | [PR #23513](https://github.com/run-llama/llama_index/pull/23513): five debug logs in the Moorcheh vector store's namespace setup printed literal braces instead of the namespace and error. Fixed with a regression test. | ![Open](https://img.shields.io/badge/Open-DBAB09?style=flat-square) |
+| **[run-llama/llama_index](https://github.com/run-llama/llama_index)**<br>Data framework for building LLM applications | [PR #23514](https://github.com/run-llama/llama_index/pull/23514): the llamafile and DeepInfra streaming parsers used `str.lstrip("data: ")`, which strips a character set rather than a prefix and breaks on non-object JSON payloads. Switched to `removeprefix`, with tests. | ![Open](https://img.shields.io/badge/Open-DBAB09?style=flat-square) |
+| **[karpathy/nanoGPT](https://github.com/karpathy/nanoGPT)**<br>Minimal GPT training and fine-tuning code | [PR #760](https://github.com/karpathy/nanoGPT/pull/760): replaced the README's dead OpenWebText dataset link (404) with the working Hugging Face location. | ![Open](https://img.shields.io/badge/Open-DBAB09?style=flat-square) |
 
 <br>
 
