@@ -2,7 +2,7 @@
 
 <p align="center">
   <b>Systems-minded engineer moving into AI application design</b><br>
-  Senior IT Analyst at L'Oréal USA &nbsp;|&nbsp; Full-stack SaaS builder &nbsp;|&nbsp; Open-source contributor
+   &nbsp;|&nbsp; Full-stack AI - SaaS builder &nbsp;|&nbsp; Open-source contributor
 </p>
 
 <p align="center">
