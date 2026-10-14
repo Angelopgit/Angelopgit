@@ -2,7 +2,7 @@
 
 <p align="center">
   <b>Systems-minded engineer moving into AI application design</b><br>
-  Full-stack AI and SaaS builder &nbsp;|&nbsp; Open-source contributor &nbsp;|&nbsp; Enterprise IT and security background
+  Full-stack AI and SaaS builder &nbsp;|&nbsp; Open-source contributor &nbsp;|&nbsp; Enterprise IT Background
 </p>
 
 <p align="center">
