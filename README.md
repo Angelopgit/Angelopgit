@@ -2,7 +2,7 @@
 
 <p align="center">
   <b>Systems-minded engineer moving into AI application design</b><br>
-   &nbsp;|&nbsp; Full-stack AI - SaaS builder &nbsp;|&nbsp; Open-source contributor
+  Full-stack AI and SaaS builder &nbsp;|&nbsp; Open-source contributor &nbsp;|&nbsp; Enterprise IT and security background
 </p>
 
 <p align="center">
@@ -87,15 +87,6 @@ Natural-language roster queries and draft after-action reports over the existing
 | **Infrastructure** | Docker, Git, PM2, nginx, Azure, AWS, GCP, Microsoft Entra ID |
 | **Security and compliance** | PCI DSS, Cybersecurity GRC, DSPM |
 | **Delivery** | Agile and Scrum, technical requirements, integration specifications |
-
-<br>
-
-## Experience
-
-**Senior IT Analyst, MarTech: L'Oréal USA** &nbsp;|&nbsp; promoted January 2026
-Scrum Master for a consumer-activation platform. Writes technical requirements and integration specs, and builds the dashboards that track delivery. Previously led retail IT buildouts, 24+ device mPOS rollouts, PCI-compliant payment-terminal upgrades and an enterprise DSPM integration (Salesforce and Databricks).
-
-**Education:** B.S. Computer Information Systems (Cybersecurity minor), Kean University
 
 <br>
 
